@@ -1,3 +1,6 @@
+[metadata.heroku]
+root-package = "https://github.com/didindinn/go-gitee-clone"
+
 
 ignored = ["google.golang.org/appengine*"]
 
